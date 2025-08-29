@@ -10,14 +10,16 @@
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #113F67;"> Education </h2>  
-    <ul style="list-style-type: disc; padding-left: 20px; font-weight:700; font-size:15px; color:#282d33;">
-    <li style="margin-bottom:5px;">광운대학교 전기정보공학과&nbsp;&nbsp;&nbsp;2020.03 - 2025.02</li>
-    <li>대진여자고등학교&nbsp;&nbsp;&nbsp;2017.03 - 2020.02</li>
-    </ul>
-    <div style="display:flex; justify-content:space-between; max-width:400px;">
-        <span>• 대진여자고등학교</span>
-        <span>2017.03 - 2020.02</span>
-    </div>
+    <table style="border-collapse:collapse; font-weight:700; font-size:15px; color:#282d33;">
+    <tr>
+        <td style="padding-right:20px;">• 광운대학교 전기정보공학과</td>
+        <td>2020.03 - 2025.02</td>
+    </tr>
+    <tr>
+        <td style="padding-right:20px;">• 대진여자고등학교</td>
+        <td>2017.03 - 2020.02</td>
+    </tr>
+    </table>
     </div>
     </div>
     <div align= "left">
