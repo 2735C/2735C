@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<!--
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:47d1ff,100:f37ce9&height=180&text=Eunji's%20Portfolio&animation=fadeIn&fontColor=656161&fontSize=70" />
     </div>
@@ -69,7 +69,7 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2735C&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-
+-->
 
 
 <!--
