@@ -10,11 +10,18 @@
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #113F67;"> Education </h2>  
-    | 학교 | 학과 | 기간
-    |------|------|------|
-    광운대학교 |  전자융합공학과  |2020.03 - 2025.02 | 
-    대진여자고등학교 | 자연계 | 2017.03 - 2020.02 | 
-    </div>
+    <table style="border-collapse:collapse; font-weight:700; font-size:15px; color:#282d33;">
+    <tr>
+        <td style="padding-right:20px;"> 광운대학교 </td> 
+        </td> 전자융합공학과 </td>
+        <td>2020.03 - 2025.02</td>
+    </tr>
+    <tr>
+        <td style="padding-right:20px;"> 대진여자고등학교</td>
+        </td> 자연계 </td>
+        <td>2017.03 - 2020.02</td>
+    </tr>
+    </table>
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Activities </h2>  
