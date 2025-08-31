@@ -1,5 +1,5 @@
 
-<!--
+
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:47d1ff,100:f37ce9&height=180&text=Eunji's%20Portfolio&animation=fadeIn&fontColor=656161&fontSize=70" />
     </div>
@@ -61,51 +61,51 @@
 
 
 #### 1. 512-Point FFT RTL 설계 및 합성·게이트 레벨 검증 <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
+> 🔹 [Final Project (결과물)]() <br>
+> 🔸 [Study / Learning Process (과정 및 학습)]()
 
-#### 2. 영상처리 VGA <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
-
-
-#### 3. 핵융합 플라즈마 가열 및 전류 구동용 RF 안테나 특성 분석 및 성능 향상 모델 도출 <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
-
-#### 4. Dual-band Reconfigurable RF Transmitter for 5G/6G communications <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
-
-#### 5. OpenCV 기반 성별·나이 추론 및 영양제 추천 시스템 <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
+#### 2. 영상처리 VGA  <br>
+> 🔹 [Final Project (결과물)]() <br>
+> 🔸 [Study / Learning Process (과정 및 학습)]()
 
 
-#### 6. DHT11, HC-SR04, UART 연동 종합 스톱워치 구현 <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
+#### 3. 핵융합 플라즈마 가열 및 전류 구동용 RF 안테나 특성 분석 및 성능 향상 모델 도출  <br>
+> 🔹 [Final Project (결과물)]() <br>
+> 🔸 [Study / Learning Process (과정 및 학습)]()
+
+#### 4. Dual-band Reconfigurable RF Transmitter for 5G/6G communications  <br>
+> 🔹 [Final Project (결과물)]() <br>
+> 🔸 [Study / Learning Process (과정 및 학습)]()
+
+#### 5. OpenCV 기반 성별·나이 추론 및 영양제 추천 시스템  <br>
+> 🔹 [Final Project (결과물)]() <br>
+> 🔸 [Study / Learning Process (과정 및 학습)]()
+
+
+#### 6. DHT11, HC-SR04, UART 연동 종합 스톱워치 구현  <br>
+> 🔹 [Final Project (결과물)]() <br>
+> 🔸 [Study / Learning Process (과정 및 학습)]()
 
 
 
 ### [Personal Project]
 
 
-#### 1. RV32I Multi-Cycle CPU 설계 <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
+#### 1. RV32I Multi-Cycle CPU 설계  <br>
+> 🔹 [Final Project (결과물)](https://github.com/2735C/KDT_CPU_Design) <br>
+> 🔸 [Study / Learning Process (과정 및 학습)](https://github.com/2735C/KDT_CPU_Design/issues)
 
-#### 2. AMBA APB 인터페이스 설계 <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
+#### 2. AMBA APB 인터페이스 설계  <br>
+> 🔹 [Final Project (결과물)]() <br>
+> 🔸 [Study / Learning Process (과정 및 학습)]()
 
-#### 3. RRC Filter RTL 설계 및 합성 <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
+#### 3. RRC Filter RTL 설계 및 합성  <br>
+> 🔹 [Final Project (결과물)]() <br>
+> 🔸 [Study / Learning Process (과정 및 학습)]()
 
-#### 4. stopwatch prj  <br>
-> 🔹 Final Project (결과물) <br>
-> 🔸 Study / Learning Process (과정 및 학습)
+#### 4. stopwatch prj   <br>
+> 🔹 [Final Project (결과물)]() <br>
+> 🔸 [Study / Learning Process (과정 및 학습)]()
 
 
 <div align= "left">
@@ -129,7 +129,7 @@
 </p>
 
 
--->
+
 
 
 
