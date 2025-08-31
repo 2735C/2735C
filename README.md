@@ -5,11 +5,11 @@
 
 ## About Me
 
-> DOB. 2001.11.07
-> Seoul, South Korea
-> Tel. 010-8596-9368
-> E. eunjijung1107@gmail.com
-
+> DOB. 2001.11.07 <br>
+> Seoul, South Korea <br>
+> Tel. 010-8596-9368 <br>
+> E. eunjijung1107@gmail.com <br>
+ 
 ## Education
 
 - 광운대학교 전자융합공학과 2020.03 - 2025.02
