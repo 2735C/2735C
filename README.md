@@ -71,10 +71,12 @@
     <div align= "left">  </div> 
     </div>
     <div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "left"> <img src="https://github-readme-stats.vercel.app/api?username=2735C&custom_title=2735C's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2735C&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+## 🏅 Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=2735C&show_icons=true&theme=default&custom_title=2735C's%20GitHub%20Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2735C&layout=compact&theme=default" height="165"/>
+</p>
 
 
 
