@@ -8,14 +8,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #113F67;"> About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #34699A;"> [Group Project] </div> 
     </div>
-        <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Activities </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> [Group Project] </div> 
-    </div>
-    <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certificate </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> [Group Project] </div> 
-    </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>  
     <!--
@@ -61,6 +53,14 @@
         <td>2017.03 - 2020.02</td>
     </tr>
     </table>
+    </div>
+    <div align= "left">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Activities </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> [Group Project] </div> 
+    </div>
+    <div align= "left">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certificate </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> [Group Project] </div> 
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
