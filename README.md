@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:47d1ff,100:f37ce9&height=180&text=Eunji's%20Portfolio&animation=fadeIn&fontColor=656161&fontSize=70" />
@@ -38,7 +36,14 @@
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/Windows-563586?style=flat">
-          </div>
+    </div>
+
+## Education
+
+- 광운대학교 전자융합공학과 2020.03 - 2025.02
+- 대진여자고등학교 2017.03 - 2020.02
+
+<!--
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #113F67;"> Education </h2>  
     <table style="border-collapse:collapse; font-weight:700; font-size:15px; color:#282d33;">
@@ -54,6 +59,7 @@
     </tr>
     </table>
     </div>
+    -->
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Activities </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> [Group Project] </div> 
