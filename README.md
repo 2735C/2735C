@@ -72,13 +72,16 @@
     </div>
     <div align= "left"> 
 
-## 🏅 Stats
+<h2>🏅 Stats</h2>
+<p>
+  <span style="display:inline-block; vertical-align:top;">
+    <img src="https://github-readme-stats.vercel.app/api?username=2735C&show_icons=true&theme=default&custom_title=2735C's%20GitHub%20Stats" height="165"/>
+  </span>
+  <span style="display:inline-block; vertical-align:top;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2735C&layout=compact&theme=default" height="165"/>
+  </span>
+</p>
 
-## 🏅 Stats
-
-
-| <img src="https://github-readme-stats.vercel.app/api?username=2735C&show_icons=true&theme=default&custom_title=2735C's%20GitHub%20Stats" height="165"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2735C&layout=compact&theme=default" height="165"/> |
---|--
 
 
 
