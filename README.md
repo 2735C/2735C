@@ -8,22 +8,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #113F67;"> About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #34699A;"> [Group Project] </div> 
     </div>
-    <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #113F67;"> Education </h2>  
-    <table style="border-collapse:collapse; font-weight:700; font-size:15px; color:#282d33;">
-    <tr>
-        <td style="padding-right:20px;"> 광운대학교 </td> 
-        <td align= "center"> 전자융합공학과 </td>
-        <td>2020.03 - 2025.02</td>
-    </tr>
-    <tr>
-        <td style="padding-right:20px;"> 대진여자고등학교</td>
-        <td align= "center"> 자연계 </td>
-        <td>2017.03 - 2020.02</td>
-    </tr>
-    </table>
-    </div>
-    <div align= "left">
+        <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Activities </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> [Group Project] </div> 
     </div>
@@ -63,6 +48,21 @@
           <img src="https://img.shields.io/badge/Windows-563586?style=flat">
           </div>
     <div align= "left">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #113F67;"> Education </h2>  
+    <table style="border-collapse:collapse; font-weight:700; font-size:15px; color:#282d33;">
+    <tr>
+        <td style="padding-right:20px;"> 광운대학교 </td> 
+        <td align= "center"> 전자융합공학과 </td>
+        <td>2020.03 - 2025.02</td>
+    </tr>
+    <tr>
+        <td style="padding-right:20px;"> 대진여자고등학교</td>
+        <td align= "center"> 자연계 </td>
+        <td>2017.03 - 2020.02</td>
+    </tr>
+    </table>
+    </div>
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "left"> <a href=jj.s001> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=jj.s001"> </a>
          <a href=mailto:~@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:~@gmail.com"> </a>
@@ -71,12 +71,15 @@
     <div align= "left">  </div> 
     </div>
     <div align= "left"> 
+
 ## 🏅 Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=2735C&show_icons=true&theme=default&custom_title=2735C's%20GitHub%20Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2735C&layout=compact&theme=default" height="165"/>
-</p>
+## 🏅 Stats
+
+
+| <img src="https://github-readme-stats.vercel.app/api?username=2735C&show_icons=true&theme=default&custom_title=2735C's%20GitHub%20Stats" height="165"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2735C&layout=compact&theme=default" height="165"/> |
+--|--
+
 
 
 
