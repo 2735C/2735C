@@ -2,10 +2,13 @@
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:47d1ff,100:f37ce9&height=180&text=Eunji's%20Portfolio&animation=fadeIn&fontColor=656161&fontSize=70" />
     </div>
-    <div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #113F67;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #34699A;"> [Group Project] </div> 
-    </div>
+
+## About Me
+
+> DOB. 2001.11.07
+> Seoul, South Korea
+> Tel. 010-8596-9368
+> E. eunjijung1107@gmail.com
 
 ## Education
 
@@ -14,7 +17,7 @@
 
 ## Certificate
 
-- 한국사능력검정시험 2급 (2020.08.21. 교육부 국사편찬위원회)
+- 한국사능력검정시험 2급 (2020.08.21, 교육부 국사편찬위원회)
 - OPIc IH (2025.01.22, ACTFL)
 - 운전면허 2종 보통 (2025.02.17, 서울지방경찰청)
 
