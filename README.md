@@ -1,4 +1,5 @@
 
+<!--
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:47d1ff,100:f37ce9&height=180&text=Eunji's%20Portfolio&animation=fadeIn&fontColor=656161&fontSize=70" />
     </div>
@@ -31,9 +32,6 @@
 
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2>  
-    <!--
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #58A0C8;"> ✅ Tool </div> 
-    -->
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
         <img src="https://img.shields.io/badge/VCS-563586?style=flat">
         <img src="https://img.shields.io/badge/Verdi-563586?style=flat">
@@ -44,42 +42,18 @@
         <img src="https://img.shields.io/badge/Virtuoso-E0E0E0?style=flat">
         <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
         </div></div>
-     <!--
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #58A0C8;"> ✅ Languages </div> 
-    -->
     <div style="margin: 0 auto; text-align: left;" align= "left"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
           <img src="https://img.shields.io/badge/Verilog-181717?style=flat">
           <img src="https://img.shields.io/badge/Systemverilog-181717?style=flat">
           </div>
     </div>
-     <!--
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #58A0C8;"> ✅ Operating Systems </div> 
-    -->
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/Windows-563586?style=flat">
     </div>
+    
 
-
-
-<!--
-    <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #113F67;"> Education </h2>  
-    <table style="border-collapse:collapse; font-weight:700; font-size:15px; color:#282d33;">
-    <tr>
-        <td style="padding-right:20px;"> 광운대학교 </td> 
-        <td align= "center"> 전자융합공학과 </td>
-        <td>2020.03 - 2025.02</td>
-    </tr>
-    <tr>
-        <td style="padding-right:20px;"> 대진여자고등학교</td>
-        <td align= "center"> 자연계 </td>
-        <td>2017.03 - 2020.02</td>
-    </tr>
-    </table>
-    </div>
-    -->
 
 ## Activities
 
@@ -134,13 +108,6 @@
 > 🔸 Study / Learning Process (과정 및 학습)
 
 
-<!--
-5. ... 센서 유아트.... 하면 추가
-
-6. pwm...
--->
-
-
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "left"> <a href=jj.s001> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=jj.s001"> </a>
@@ -162,6 +129,7 @@
 </p>
 
 
+-->
 
 
 
