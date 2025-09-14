@@ -65,15 +65,15 @@
 > 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/SoC_Front_end/issues)
 
 #### 2. 영상처리 VGA [진행 중] <br>
-> 🔹 [[Final Project (결과물)]]() <br>
+> 🔹 [[Final Project (결과물)]](https://github.com/KimEulJoong/VGA_Motion_Recognition_Game) <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]]()
 
 
 #### 3. 핵융합 플라즈마 가열 및 전류 구동용 RF 안테나 특성 분석 및 성능 향상 모델 도출  <br>
 > 🔹 [[Final Project (결과물)]](https://github.com/2735C/RF_Antenna_Design) <br>
-> 🔸 [[Study / Learning Process (과정 및 학습)]] :arrow_right: 보안 이슈로 생략
+> 🔸 [Study / Learning Process (과정 및 학습)] :arrow_right: 보안 이슈로 생략
 
-#### 4. Dual-band Reconfigurable RF Transmitter for 5G/6G communications [추가 예정] <br>
+#### 4. Dual-band Reconfigurable RF Transmitter for 5G/6G communications <br>
 > 🔹 [[Final Project (결과물)]](https://github.com/2735C/2024_KWIX) <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/2024_KWIX/issues)
 
@@ -86,7 +86,7 @@
 > 🔹 [[Final Project (결과물)]](https://github.com/2735C/Verilog) <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/Verilog/issues)
 
-
+##
 
 ### [Personal Project]
 
