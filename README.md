@@ -1,5 +1,5 @@
 
-<!--
+
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:47d1ff,100:f37ce9&height=180&text=Eunji's%20Portfolio&animation=fadeIn&fontColor=656161&fontSize=70" />
     </div>
@@ -64,27 +64,27 @@
 > 🔹 [[Final Project (결과물)]](https://github.com/2735C/KDT_FFT_Design) <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/SoC_Front_end/issues)
 
-#### 2. 영상처리 VGA  <br>
+#### 2. 영상처리 VGA [진행 중] <br>
 > 🔹 [[Final Project (결과물)]]() <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]]()
 
 
 #### 3. 핵융합 플라즈마 가열 및 전류 구동용 RF 안테나 특성 분석 및 성능 향상 모델 도출  <br>
-> 🔹 [[Final Project (결과물)]]() <br>
-> 🔸 [[Study / Learning Process (과정 및 학습)]]()
+> 🔹 [[Final Project (결과물)]](https://github.com/2735C/RF_Antenna_Design) <br>
+> 🔸 [[Study / Learning Process (과정 및 학습)]] :arrow_right: 보안 이슈로 생략
 
-#### 4. Dual-band Reconfigurable RF Transmitter for 5G/6G communications  <br>
+#### 4. Dual-band Reconfigurable RF Transmitter for 5G/6G communications [추가 예정] <br>
 > 🔹 [[Final Project (결과물)]](https://github.com/2735C/2024_KWIX) <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/2024_KWIX/issues)
 
 #### 5. OpenCV 기반 성별·나이 추론 및 영양제 추천 시스템  <br>
 > 🔹 [[Final Project (결과물)]](https://github.com/2735C/KDT_AI_Algorithm_Project) <br>
-> 🔸 [[Study / Learning Process (과정 및 학습)]]()
+> 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/AI_Algorithm/issues)
 
 
 #### 6. DHT11, HC-SR04, UART 연동 종합 스톱워치 구현  <br>
-> 🔹 [[Final Project (결과물)]]() <br>
-> 🔸 [[Study / Learning Process (과정 및 학습)]]()
+> 🔹 [[Final Project (결과물)]](https://github.com/2735C/Verilog) <br>
+> 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/Verilog/issues)
 
 
 
@@ -103,13 +103,13 @@
 > 🔹 [[Final Project (결과물)]](https://github.com/2735C/SoC_Front_end/issues/6) <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/SoC_Front_end/issues)
 
-#### 4. stopwatch prj  <br>
+#### 4. stopwatch prj [추가 예정]  <br>
 > 🔹 [[Final Project (결과물)]]() <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]]()
 
 #### 5. ARM Cortex M3  <br>
-> 🔹 [[Final Project (결과물)]]() <br>
-> 🔸 [[Study / Learning Process (과정 및 학습)]]()
+> 🔹 [[Final Project (결과물)]](https://github.com/2735C/KDT_ARM) <br>
+> 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/AI_ARM/issues)
 
 
 <div align= "left">
@@ -133,7 +133,7 @@
 </p>
 
 
--->
+
 
 
 
