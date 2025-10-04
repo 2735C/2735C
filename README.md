@@ -65,7 +65,7 @@
 > 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/SoC_Front_end/issues)
 
 #### 2. 영상처리 VGA [진행 중] <br>
-> 🔹 [[Final Project (결과물)]](https://github.com/KimEulJoong/VGA_Motion_Recognition_Game) <br>
+> 🔹 [[Final Project (결과물)]](https://github.com/2735C/VGA_Motion_Recognition_Game?tab=readme-ov-file) <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]]()
 
 
