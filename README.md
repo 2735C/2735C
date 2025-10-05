@@ -51,7 +51,6 @@
     </div>
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
-          <img src="https://img.shields.io/badge/Windows-563586?style=flat">
     </div>
     
 
@@ -65,7 +64,7 @@
 > 🔹 [[Final Project (결과물)]](https://github.com/2735C/KDT_FFT_Design) <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]](https://github.com/2735C/SoC_Front_end/issues)
 
-#### 2. 영상처리 VGA <br>
+#### 2. VGA 영상처리 기반 K-Dance 모션 인식 게임 <br>
 > 🔹 [[Final Project (결과물)]](https://github.com/2735C/VGA_Motion_Recognition_Game?tab=readme-ov-file) <br>
 > 🔸 [[Study / Learning Process (과정 및 학습)]]()
 
