@@ -3,6 +3,8 @@
 <div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:47d1ff,100:f37ce9&height=180&text=Eunji's%20Portfolio&animation=fadeIn&fontColor=656161&fontSize=70" />
     </div>
+<!--
+
 
 ## About Me
 
@@ -53,7 +55,7 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
     </div>
     
-
+-->
 
 ## Activities
 
